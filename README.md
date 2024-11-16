@@ -21,6 +21,7 @@
 
 ## REPORT
 구조도
+
  ![image](https://github.com/user-attachments/assets/77a2dee4-7a31-463a-b93e-6dda5641497f)
 
 •	클라이언트
